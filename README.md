@@ -1,4 +1,4 @@
-# Kali-Linux
+# RTL8188eus for TP-Link TP-WN722n V2/3
 
 I've didn't change a lot from Mr.David text file, i've just changed the rtl8188eus repo file from aircrackng to another repo from drygdryg, 
 why ?
