@@ -2,7 +2,7 @@
 
 I've didn't change a lot from Mr.David text file, i've just changed the rtl8188eus repo file from aircrackng to another repo from drygdryg, 
 why ?
-becaue it's works, not like rtl8188eus file from aircrack, the majority of users fave this error;
+becaue it's works, not like rtl8188eus file from aircrack, the majority of users face this error;
 at the moment you start running the " make command ", you'll find more description of this error in the issus section.
 
 I've faced the same error, and i've tried to change the scripte on the file, but that cause more errors,
