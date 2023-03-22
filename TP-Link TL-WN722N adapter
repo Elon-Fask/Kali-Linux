@@ -30,7 +30,7 @@ https://http.kali.org/kali/pool/main/l/linux/?C=N;O=D
 tap Ctrl+f to search quicly by writing your linux headers version on the search bar
 You found it, Great Download the .deb file 
 open the terminal and use the dpkg command :
-by example { user㉿user>$> sudo dpkg <filename>.deb
+by example { user㉿user>$> sudo dpkg -i <filename>.deb
 
 and that's it, you finished updating your linux headers manaully.
 
